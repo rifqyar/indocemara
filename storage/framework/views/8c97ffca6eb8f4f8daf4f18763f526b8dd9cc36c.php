@@ -74,6 +74,29 @@
 		</div>        
 	</div>
 
+	<div class="bg__fourth">
+		<div id="fourth-section">
+		  <div class="container">
+		    <div class="row">
+		      <div class="col-md-4 col-md-offset-8 col-sm-6 col-xs-10 col-xs-offset-1 wow animated fadeInLeft">
+		        <div class="left-text">
+		          <h2>Discover your family’s heritage through our records</h2>
+		          <div class="line"></div>
+		          <p>With our collection of billions of records, you can piece together your ancestors’ history and bring their stories to life.​.</p>                  
+		          <div class="button">
+		            <a href="#">Search Now</a>
+		          </div>                  
+		        </div>
+		      </div>
+		    </div>
+		    <div class="col-md-12">
+		      <div class="fourth-arrow">
+		        <a href="#" class="scroll-link btn btn-dark" data-id="fifth-section"><i class="fa fa-angle-down"></i></a>
+		      </div>
+		    </div>
+		  </div>
+		</div>
+	</div>
 
 	<div class="bg__third">
 		<div id="third-section">
@@ -81,11 +104,11 @@
 		    <div class="row">
 		      <div class="col-md-4 col-sm-6 col-xs-10 wow animated fadeInLeft">
 		        <div class="left-text">
-		          <h2>.03 Section Three Title</h2>
+		          <h2>Find your family in the world’s largest shared family tree</h2>
 		          <div class="line"></div>
-		          <p>Please tell your friends about <span class="blue">template</span><span class="green">mo</span>.com website. Ut at nisl sem. Praesent ac efficitur mi. Sed fermentum iaculis accumsan. Mauris rutrum dignissim eros id finibus sed turpis in diam mollis lobortis. <br><br>Phasellus tincidunt leo ante, quis convallis lectus pretium vel. Ut blandit, est eget feugiat laoreet, magna nisi volutpat ligula, commodo efficitur metus magna vel sapien.</p>
+		          <p>We have over a billion unique profiles in our tree, and growing. See what others have contributed about your ancestors.​
 		          <div class="button">
-		            <a href="#">Read More</a>
+		            <a href="#">Get Started</a>
 		          </div>                  
 		        </div>
 		      </div>
@@ -102,18 +125,16 @@
 	</div>
 
 
-	<div class="bg__fourth">
+	<div class="bg__sixth">
 		<div id="fourth-section">
 		  <div class="container">
 		    <div class="row">
 		      <div class="col-md-4 col-md-offset-8 col-sm-6 col-xs-10 col-xs-offset-1 wow animated fadeInLeft">
 		        <div class="left-text">
-		          <h2>.04 Section Four Title</h2>
+		          <h2>Connect you with ancestor</h2>
 		          <div class="line"></div>
-		          <p>Donec suscipit hendrerit euismod. Ut at nisl sem. Praesent ac efficitur mi. Sed fermentum iaculis accumsan. Mauris rutrum dignissim eros id finibus sed turpis in diam mollis lobortis. <br><br>Phasellus tincidunt leo ante, quis convallis lectus pretium vel. Ut blandit, est eget feugiat laoreet, magna nisi volutpat ligula, commodo efficitur metus magna vel sapien.</p>                  
-		          <div class="button">
-		            <a href="#">Read More</a>
-		          </div>                  
+		          <p>Take your ancestors with you. With the Indo Cemara app, you can quickly add the details of your family story, wherever you find them.</p>                  
+		                           
 		        </div>
 		      </div>
 		    </div>
@@ -131,63 +152,19 @@
 		<div class="container">
 		  <div class="row">
 		    <div class="col-md-6 col-md-offset-3 col-xs-12 wow animated fadeInDown">
-		      <h1>Fill This Application Now!</h1>
-		      <div class="col-md-12">
-		        <p>Nulla aliquam felis mi, volutpat convallis lorem eleifend id. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-		      </div>
+		      <h1>Interested? Sign Up now for free!!</h1>
 		    </div>
 		  </div>
-		  <form action="#" method="get">
-		  <div class="row">
-		  	
-		    <div class="col-md-8 col-md-offset-2 wow animated fadeInUp">
-		    
-		      <div class="submit-form">
-		      	
-		        <div class="col-md-3">
-		          <input name="name" type="text" id="name" placeholder="Your name..."/>
-		        </div>
-		        
-		        <div class="col-md-3">
-		          <input name="email" type="text" id="email" placeholder="Your email..."/>
-		        </div>
-		        
-		        <div class="col-md-3">
-		          <select name="gender" id="gender">
-		            <option value="null">Gender</option>
-		          	<option value="Male">Male</option>
-		            <option value="Female">Female</option>
-		        </select>
-		        </div>
-		        
-		        <div class="col-md-3">
-		          <select name="age" id="age">
-		            <option value="null">Age</option>
-		          	<option value="18-24">18 - 24</option>
-		            <option value="25-30">25 - 30</option>
-		            <option value="31-40">31 - 40</option>
-		            <option value="41-60">41 - 60</option>
-		        </select>
-		        </div>
-		        
-		      </div><!-- submit form -->
-		      
-		    </div>
-		    
-		    </div>
-		    
+		  <form action="#" method="get">		    
 		    <div class="row">
-		    
 		        <div class="col-md-4 col-md-offset-5 wow animated fadeInUp">
-		            <input type="submit" value="Submit" class="templatemo-submit" />
+		            <input type="submit" value="Sign Up" class="templatemo-submit" />
 		        </div>
-		   	 
 		  	</div>
-		    
 		  </form>
 		</div>
 	</div>
-	
+
 <?php $__env->stopSection(); ?>
 
 

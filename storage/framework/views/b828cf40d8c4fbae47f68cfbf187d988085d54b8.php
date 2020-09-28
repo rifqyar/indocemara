@@ -51,7 +51,7 @@
                 <li><a href="#">Research Participation</a></li>
               </ul>
             </li>
-            <li><a href="columns.html">Columns</a></li>
+            <li><a href="columns.html">Pricing</a></li>
             <li><a href="#"><span>Sign Up</span></a></li>
           </ul>
         </div>
@@ -62,6 +62,9 @@
       <!--/.navbar-->
   </div>
   <!--/.header-->
+
+  
+
 	<div class="parallax">
 		<?php echo $__env->yieldContent('content'); ?>
 		

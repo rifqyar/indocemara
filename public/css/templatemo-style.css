@@ -206,7 +206,7 @@ body {
 
   background-image: url(
 
-    ../images/third-bg.jpg
+    ../images/bg4.jpg
 
   );
 
@@ -222,7 +222,21 @@ body {
 
   background-image: url(
 
-    ../images/fourth-bg.jpg
+    ../images/unnamed.jpg
+
+  );
+
+}
+
+.bg__sixth {
+
+  height: 100vh;
+
+
+
+  background-image: url(
+
+    ../images/bg-01.jpg
 
   );
 
@@ -752,7 +766,9 @@ body {
 
   position: absolute;
 
-  margin-top: 20%;
+  margin-top: 40%;
+
+  padding: 50px;
 
   background-color: #fff;
 
