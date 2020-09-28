@@ -62,6 +62,9 @@
       <!--/.navbar-->
   </div>
   <!--/.header-->
+
+  {{-- JS Navbar disini --}}
+
 	<div class="parallax">
 		@yield('content')
 		
